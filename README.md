@@ -10,3 +10,6 @@ futura implementazione
 
 ## Errore
 All'interno del BookController non è possibile inserire le categorie purtroppo non sono riuscita a capire dove si trovasse l'errore e come risolverlo
+
+## Api Request 
+Al''interno della cartella src/main/resources/static/rest_templates si trova il file .json con le chiamate rest
